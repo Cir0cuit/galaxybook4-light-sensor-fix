@@ -1,0 +1,3 @@
+src/vmlinux.h
+*.bpf.o
+*.tmp
